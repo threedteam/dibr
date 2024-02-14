@@ -1,0 +1,5 @@
+# @package _group_
+data_root_dir: /media/zrway/7f6f1ac1-24aa-4dfb-ab0a-ed8c3287463d/rxw/lama-main/Datasets/ballet_2w/
+out_root_dir: /media/zrway/7f6f1ac1-24aa-4dfb-ab0a-ed8c3287463d/rxw/lama-main/experiments/
+tb_dir: /media/zrway/7f6f1ac1-24aa-4dfb-ab0a-ed8c3287463d/rxw/lama-main/tb_logs/
+pretrained_models: /media/zrway/7f6f1ac1-24aa-4dfb-ab0a-ed8c3287463d/rxw/lama-main/
